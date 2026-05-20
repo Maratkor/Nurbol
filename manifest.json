@@ -1,17 +1,9 @@
 {
   "short_name": "АНЕА",
   "name": "АНЕА — GTO Charts",
-  "icons": [
-    {
-      "src": "https://maratkor.github.io/Nurbol/image2.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
-    }
-  ],
   "start_url": ".",
   "background_color": "#0a0f1e",
-  "theme-color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
   "display": "standalone",
   "orientation": "portrait"
 }
