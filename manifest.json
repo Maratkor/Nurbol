@@ -1,9 +1,0 @@
-{
-  "short_name": "АНЕА",
-  "name": "АНЕА — GTO Charts",
-  "start_url": "./",
-  "background_color": "#0a0f1e",
-  "theme_color": "#0a0f1e",
-  "display": "standalone",
-  "orientation": "portrait"
-}
